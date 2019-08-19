@@ -1,0 +1,25 @@
+.container{
+	text-align: center;
+	background-color: blue;
+	height: 1000px;
+	padding: 50px;
+}
+.login{
+	width: 450px;
+	height: 600px;
+	background: url(hnen.jpg) center top no-repeat;
+	display: block;
+	background-size: cover;
+	position: relative;
+}
+input{
+	text-align: center;
+	height: 30px;
+	width: 300;
+	outline: none;
+	border-bottom: 3px;
+	margin: 0 auto;
+	padding: 
+
+
+}
